@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Runtime data
+data/*
+!data/.gitkeep
+logs/*
+!logs/.gitkeep
+
+# Build artifacts
+*.zip
+!docs/sample_data/invalid/archive.zip
+docs/sample_data/invalid/oversize.pdf

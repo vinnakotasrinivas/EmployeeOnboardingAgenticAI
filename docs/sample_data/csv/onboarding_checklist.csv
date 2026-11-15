@@ -1,0 +1,56 @@
+task_id,phase,due_day_offset,due,task,details,owner,applies_to_country,applies_to_department,system_or_tool,mandatory,reference_document
+OB-001,Pre-boarding,-14,14 days before start,Send welcome email with Day 1 agenda,"Include start time, office address or Zoom link, documents to bring and buddy name.",People Team,All,All,Workday,Yes,Employee Handbook s.7
+OB-002,Pre-boarding,-14,14 days before start,Confirm background verification is cleared,Offer is contingent on clearance; escalate any delay to the hiring manager.,People Team,All,All,BGV vendor portal,Yes,Employee Handbook s.3
+OB-003,Pre-boarding,-10,10 days before start,Create Workday worker record and employee ID,Employee ID format NWL followed by four digits.,People Team,All,All,Workday,Yes,Employee Handbook s.3
+OB-004,Pre-boarding,-7,7 days before start,Prepare and enroll laptop,"Enroll in Jamf or Intune, enable disk encryption, install CrowdStrike Falcon.",IT,All,All,Jamf / Intune,Yes,IT Security Policy s.4
+OB-005,Pre-boarding,-7,7 days before start,"Create Okta, Google Workspace and Slack accounts",Send Okta activation link to the new hire's personal email.,IT,All,All,Okta,Yes,IT Security Policy s.2
+OB-006,Pre-boarding,-7,7 days before start,Ship laptop to home address,Use tracked courier; share tracking number with the new hire.,IT,United States,All,IT Service Portal,Yes,First Week FAQ
+OB-007,Pre-boarding,-5,5 days before start,Assign onboarding buddy,Pick a teammate with 12+ months tenure who is not the manager; notify both.,Manager,All,All,Workday,Yes,Employee Handbook s.7
+OB-008,Pre-boarding,-5,5 days before start,Draft 30-60-90 day plan,"Outline goals, first project and key stakeholders.",Manager,All,All,Workday Goals,Yes,Employee Handbook s.7
+OB-009,Pre-boarding,-3,3 days before start,Book desk for first week,Reserve a desk in the team zone for Tuesday to Thursday.,People Team,All,All,Robin,No,How-To Guides s.7
+OB-010,Pre-boarding,-3,3 days before start,Add new hire to team channels and meetings,"Team Slack channel, stand-ups, team calendar and distribution lists.",Manager,All,All,Slack / Google Calendar,Yes,
+OB-011,Pre-boarding,-2,2 days before start,Request role-based access,"GitHub, Jira and Confluence for Engineering; Salesforce for Sales and CS.",Manager,All,All,IT Service Portal,Yes,IT Security Policy s.2
+OB-012,Day 1,0,Day 1,Attend New Hire Orientation,Starts 09:30 local time (NWL-ORI-101).,New Hire,All,All,Northwind Learn,Yes,First Week FAQ
+OB-013,Day 1,0,Day 1,Collect ID badge and laptop,Office-based hires collect from the IT desk during orientation.,New Hire,All,All,,Yes,First Week FAQ
+OB-014,Day 1,0,Day 1,Activate Okta and enroll MFA,Okta Verify push plus a backup factor; SMS is not allowed.,New Hire,All,All,Okta,Yes,How-To Guides s.1
+OB-015,Day 1,0,Day 1,Set up 1Password,Store your Okta password in the company 1Password account.,New Hire,All,All,1Password,Yes,IT Security Policy s.3
+OB-016,Day 1,0,Day 1,Meet your manager,Discuss role expectations and walk through the draft 30-60-90 plan.,Manager,All,All,,Yes,Employee Handbook s.7
+OB-017,Day 1,0,Day 1,Meet your onboarding buddy,Schedule a weekly 30-minute check-in for 6 weeks.,Buddy,All,All,Google Calendar,Yes,Employee Handbook s.7
+OB-018,Day 1,0,Day 1,Complete Form I-9 Section 1,Bring original identity and work-authorisation documents.,New Hire,United States,All,Workday,Yes,Employee Handbook s.5
+OB-019,Day 1,0,Day 1,Upload KYC and bank details,"PAN, Aadhaar and cancelled cheque or bank statement.",New Hire,India,All,Workday,Yes,Employee Handbook s.5
+OB-020,Week 1,2,Within 2 days,Verify I-9 documents (Section 2),Must be completed within 3 business days of start.,People Team,United States,All,Workday,Yes,Employee Handbook s.5
+OB-021,Week 1,2,Within 2 days,Submit W-4 and direct deposit,Due by end of Day 3 to be paid on the next payday.,New Hire,United States,All,Workday,Yes,Employee Handbook s.5
+OB-022,Week 1,3,Within 3 days,Update emergency contact and personal details,"Address, emergency contact and pronouns.",New Hire,All,All,Workday,Yes,Employee Handbook s.3
+OB-023,Week 1,4,Within 4 days,Install Zscaler and confirm VPN access,Required for internal admin tools and production.,New Hire,All,All,Zscaler Private Access,Yes,How-To Guides s.2
+OB-024,Week 1,4,Within 4 days,Join core Slack channels,"#announcements, #ask-people, #it-helpdesk, #new-joiners and team channel.",New Hire,All,All,Slack,No,First Week FAQ
+OB-025,Week 1,5,Within 5 days,Read the Employee Handbook and IT Security Policy,Note any questions for your buddy or manager.,New Hire,All,All,Confluence,Yes,"NWL-HR-001, NWL-SEC-003"
+OB-026,Week 1,5,Within 5 days,Agree 30-60-90 goals in Workday,Manager and new hire finalise goals in the first 1:1.,Manager,All,All,Workday Goals,Yes,Employee Handbook s.7
+OB-027,Week 1,5,Within 5 days,Team welcome lunch or virtual coffee,Expense under team events.,Manager,All,All,Workday Expenses,No,
+OB-028,Week 1,7,Within 7 days,Acknowledge the Code of Conduct,Due within 7 days of start date.,New Hire,All,All,Workday,Yes,Code of Conduct s.1
+OB-029,Week 1,7,Within 7 days,Complete Code of Conduct and Ethics training,Course NWL-COC-101.,New Hire,All,All,Northwind Learn,Yes,Code of Conduct s.1
+OB-030,Week 1,7,Within 7 days,Register YubiKey,"Required for Engineering, Finance and IT.",New Hire,All,Engineering; Finance; IT & Security,Okta,Yes,IT Security Policy s.2
+OB-031,Weeks 2-4,14,Within 14 days,Complete Security Awareness Essentials,Course NWL-SEC-101.,New Hire,All,All,Northwind Learn,Yes,IT Security Policy s.11
+OB-032,Weeks 2-4,14,Within 14 days,Complete Dev Environment and CI/CD onboarding,Course NWL-ENG-110; set up local environment with your buddy.,New Hire,All,Engineering,Northwind Learn,Yes,
+OB-033,Weeks 2-4,21,Within 21 days,Ship your first change to production,"Pair with your buddy on a small, low-risk change.",New Hire,All,Engineering,GitHub,No,
+OB-034,Weeks 2-4,30,Within 30 days,Enroll in benefits,Deadline is 30 calendar days from start date.,New Hire,All,All,Workday Benefits,Yes,Benefits Enrollment workbook
+OB-035,Weeks 2-4,30,Within 30 days,Submit investment declaration (Form 12BB),Otherwise tax is deducted without exemptions.,New Hire,India,All,Workday,Yes,Employee Handbook s.5
+OB-036,Weeks 2-4,30,Within 30 days,Complete Data Privacy and Protection training,Course NWL-PRV-101.,New Hire,All,All,Northwind Learn,Yes,Code of Conduct s.6
+OB-037,Weeks 2-4,30,Within 30 days,Complete POSH Awareness training,Course NWL-POSH-101.,New Hire,India,All,Northwind Learn,Yes,Code of Conduct s.3
+OB-038,Weeks 2-4,30,Within 30 days,Complete Harassment Prevention training,Course NWL-AHT-101.,New Hire,United States,All,Northwind Learn,Yes,Code of Conduct s.3
+OB-039,Weeks 2-4,30,Within 30 days,Complete Responsible Use of AI Tools training,Course NWL-AI-101.,New Hire,All,All,Northwind Learn,Yes,Code of Conduct s.7
+OB-040,Weeks 2-4,30,Within 30 days,Complete Anti-Bribery and Corruption training,Course NWL-ABC-201.,New Hire,All,Sales; Finance; Customer Success,Northwind Learn,Yes,Code of Conduct s.5
+OB-041,Weeks 2-4,30,Within 30 days,Complete Product Fundamentals,Course NWL-PRD-101.,New Hire,All,All,Northwind Learn,Yes,
+OB-042,Weeks 2-4,30,Within 30 days,Complete Secure Coding Practices,Course NWL-ENG-120.,New Hire,All,Engineering,Northwind Learn,Yes,IT Security Policy s.9
+OB-043,Weeks 2-4,30,Within 30 days,Complete Sales Playbook and CRM training,Course NWL-SAL-110; Salesforce access required.,New Hire,All,Sales,Northwind Learn,Yes,
+OB-044,Weeks 2-4,30,Within 30 days,Complete Customer Success Toolkit,Course NWL-CS-110.,New Hire,All,Customer Success,Northwind Learn,Yes,
+OB-045,Weeks 2-4,30,Within 30 days,30-day check-in,Review progress against the 30-60-90 plan.,Manager,All,All,Workday Goals,Yes,Employee Handbook s.7
+OB-046,Weeks 2-4,30,Within 30 days,30-day onboarding pulse survey,Five-question survey sent automatically.,People Team,All,All,Workday,No,
+OB-047,Days 31-90,45,Within 45 days,Shadow the on-call rotation,Course NWL-ENG-130 due by Day 60.,New Hire,All,Engineering (Site Reliability; Platform Engineering),PagerDuty,Yes,IT Security Policy s.9
+OB-048,Days 31-90,60,Within 60 days,Claim home-office stipend,"One-time USD 500 / INR 25,000; expense type 'Home Office - One Time'.",New Hire,All,All,Workday Expenses,No,Employee Handbook s.6
+OB-049,Days 31-90,60,Within 60 days,60-day check-in with buddy feedback,Manager collects feedback from the onboarding buddy.,Manager,All,All,Workday Goals,Yes,Employee Handbook s.7
+OB-050,Days 31-90,90,Within 90 days,90-day review,Confirm goals for the next quarter.,Manager,All,All,Workday Goals,Yes,Employee Handbook s.7
+OB-051,Days 31-90,90,Within 90 days,Close US introductory period,People Team records completion in Workday.,People Team,United States,All,Workday,Yes,Employee Handbook s.3
+OB-052,Days 31-90,90,Within 90 days,Complete New Manager Essentials,Course NWL-MGR-201 for people managers.,New Hire,All,People managers,Northwind Learn,Yes,
+OB-053,Days 31-90,90,Within 90 days,Complete onboarding feedback survey,Helps us improve onboarding for future joiners.,New Hire,All,All,Workday,No,
+OB-054,Probation,150,Within 150 days,Probation confirmation review,Manager submits recommendation in month 5.,Manager,India,All,Workday,Yes,Employee Handbook s.3
+OB-055,Probation,180,Within 180 days,Issue confirmation letter,People Team issues letter after a positive review.,People Team,India,All,Workday,Yes,Employee Handbook s.3

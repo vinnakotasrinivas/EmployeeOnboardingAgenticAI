@@ -1,0 +1,41 @@
+NORTHWIND LABS - HOW-TO GUIDES FOR YOUR FIRST WEEK
+Owner: IT and People Team | Last updated: 1 October 2026
+
+1. SET UP OKTA AND MFA (Day 1)
+   a) Open the Okta activation link in your welcome email and set a password of at least 14 characters.
+   b) Install Okta Verify on your phone, scan the QR code and add a second factor as backup.
+   c) Engineering, Finance and IT: register your YubiKey under Settings > Security Methods within 7 days.
+
+2. CONNECT TO THE VPN (Zscaler Private Access)
+   a) Install "Zscaler" from Self Service (Mac) or Company Portal (Windows).
+   b) Sign in with your Okta account. The icon turns green when you are connected.
+   c) Keep it on whenever you use public Wi-Fi or access internal admin tools.
+
+3. REQUEST TIME OFF
+   a) Workday > Time Off > Request Time Off. Choose the leave type and dates.
+   b) Add a note for your manager and submit. Request 3+ day leave 10 working days ahead.
+
+4. ENROLL IN BENEFITS (deadline: 30 days after your start date)
+   a) Workday > Benefits > Benefit Elections > Let's Get Started.
+   b) Add dependents first, then choose your plans and coverage level.
+   c) Review the summary, submit, and save the confirmation PDF.
+
+5. REQUEST SOFTWARE OR SYSTEM ACCESS
+   a) Approved apps: install from Self Service (Mac) or Company Portal (Windows).
+   b) Anything else: it.northwindlabs.com > Request Access. Approvals take 1-2 business days;
+      new SaaS tools need a security review (about 5 business days).
+
+6. REPORT A PHISHING EMAIL
+   a) Do not click links or open attachments.
+   b) Click "Report Phish" in Gmail. Security replies within 4 business hours.
+
+7. BOOK A DESK (hybrid offices)
+   a) Open the Robin app or robin.northwindlabs.com.
+   b) Pick your office and floor, choose a desk in your team zone, and confirm.
+
+8. SUBMIT AN EXPENSE OR HOME-OFFICE STIPEND
+   a) Workday > Expenses > Create Expense Report. Attach itemised receipts above USD 25 / INR 2,000.
+   b) Home-office stipend: use expense type "Home Office - One Time" within 60 days of joining.
+
+9. LOST DEVICE OR SECURITY INCIDENT
+   Report within 1 hour: security@northwindlabs.com, #security-incidents, or +1-512-555-0142.

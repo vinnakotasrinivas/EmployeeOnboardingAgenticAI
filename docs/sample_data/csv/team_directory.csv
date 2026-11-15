@@ -1,0 +1,185 @@
+employee_id,first_name,last_name,work_email,job_title,department,team,manager_id,manager_name,location,country,work_mode,employment_type,start_date,is_new_hire,onboarding_buddy_id,onboarding_buddy_name,slack_handle,desk_extension
+NWL1001,Kevin,Hall,kevin.hall@northwindlabs.com,Chief Executive Officer,Executive,Leadership,,,Austin,United States,Hybrid,Full-time,2016-03-01,No,,,@kevin.hall,3942
+NWL1002,Nikhil,Desai,nikhil.desai@northwindlabs.com,Chief Technology Officer,Engineering,Leadership,NWL1001,Kevin Hall,Bengaluru,India,Hybrid,Full-time,2019-03-14,No,,,@nikhil.desai,2690
+NWL1003,Jamal,Moore,jamal.moore@northwindlabs.com,Chief Product Officer,Product & Design,Leadership,NWL1001,Kevin Hall,Austin,United States,Hybrid,Full-time,2026-02-27,No,,,@jamal.moore,3281
+NWL1004,Matthew,Williams,matthew.williams@northwindlabs.com,Chief Revenue Officer,Sales,Leadership,NWL1001,Kevin Hall,Austin,United States,Hybrid,Full-time,2025-08-06,No,,,@matthew.williams,4877
+NWL1005,Kevin,Nguyen,kevin.nguyen@northwindlabs.com,Chief People Officer,People,Leadership,NWL1001,Kevin Hall,Austin,United States,Hybrid,Full-time,2021-12-13,No,,,@kevin.nguyen,2723
+NWL1006,Sophia,Kim,sophia.kim@northwindlabs.com,Chief Financial Officer,Finance,Leadership,NWL1001,Kevin Hall,Austin,United States,Hybrid,Full-time,2021-01-06,No,,,@sophia.kim,6067
+NWL1007,Michael,Walker,michael.walker@northwindlabs.com,Chief Information Security Officer,IT & Security,Leadership,NWL1001,Kevin Hall,Austin,United States,Hybrid,Full-time,2023-07-06,No,,,@michael.walker,2603
+NWL1008,Arjun,Kulkarni,arjun.kulkarni@northwindlabs.com,"VP Engineering, India",Engineering,Leadership,NWL1002,Nikhil Desai,Bengaluru,India,Hybrid,Full-time,2018-02-16,No,,,@arjun.kulkarni,5525
+NWL1009,Nisha,Chowdary,nisha.chowdary@northwindlabs.com,"Engineering Manager, Platform",Engineering,Platform Engineering,NWL1008,Arjun Kulkarni,Bengaluru,India,Hybrid,Full-time,2022-04-14,No,,,@nisha.chowdary,2429
+NWL1010,Abhishek,Banerjee,abhishek.banerjee@northwindlabs.com,Senior Software Engineer,Engineering,Platform Engineering,NWL1009,Nisha Chowdary,Bengaluru,India,Hybrid,Contractor,2020-07-22,No,,,@abhishek.banerjee,5893
+NWL1011,Vikram,Desai,vikram.desai@northwindlabs.com,Senior Software Engineer,Engineering,Platform Engineering,NWL1009,Nisha Chowdary,Bengaluru,India,Hybrid,Full-time,2020-07-11,No,,,@vikram.desai,5842
+NWL1012,Varun,Gupta,varun.gupta@northwindlabs.com,Software Engineer I,Engineering,Platform Engineering,NWL1009,Nisha Chowdary,Bengaluru,India,Hybrid,Full-time,2022-01-25,No,,,@varun.gupta,3078
+NWL1013,Harsha,Naidu,harsha.naidu@northwindlabs.com,Software Engineer II,Engineering,Platform Engineering,NWL1009,Nisha Chowdary,Bengaluru,India,Hybrid,Full-time,2025-05-12,No,,,@harsha.naidu,4584
+NWL1014,Deepika,Iyer,deepika.iyer@northwindlabs.com,Senior Software Engineer,Engineering,Platform Engineering,NWL1009,Nisha Chowdary,Bengaluru,India,Hybrid,Full-time,2024-03-19,No,,,@deepika.iyer,2433
+NWL1015,Abhishek,Hegde,abhishek.hegde@northwindlabs.com,Software Engineer I,Engineering,Platform Engineering,NWL1009,Nisha Chowdary,Bengaluru,India,Hybrid,Full-time,2019-09-10,No,,,@abhishek.hegde,2603
+NWL1016,Naveen,Verma,naveen.verma@northwindlabs.com,Senior Software Engineer,Engineering,Platform Engineering,NWL1009,Nisha Chowdary,Bengaluru,India,Hybrid,Full-time,2023-10-09,No,,,@naveen.verma,3930
+NWL1017,Abhishek,Mehta,abhishek.mehta@northwindlabs.com,Senior Software Engineer,Engineering,Platform Engineering,NWL1009,Nisha Chowdary,Bengaluru,India,Hybrid,Full-time,2025-09-25,No,,,@abhishek.mehta,2753
+NWL1018,Sanjay,Menon,sanjay.menon@northwindlabs.com,Software Engineer I,Engineering,Platform Engineering,NWL1009,Nisha Chowdary,Bengaluru,India,Hybrid,Full-time,2026-06-23,No,,,@sanjay.menon,5639
+NWL1019,Suresh,Agarwal,suresh.agarwal@northwindlabs.com,Senior Software Engineer,Engineering,Platform Engineering,NWL1009,Nisha Chowdary,Bengaluru,India,Hybrid,Full-time,2021-03-27,No,,,@suresh.agarwal,3921
+NWL1020,Revathi,Gupta,revathi.gupta@northwindlabs.com,Software Engineer I,Engineering,Platform Engineering,NWL1009,Nisha Chowdary,Bengaluru,India,Hybrid,Contractor,2023-03-02,No,,,@revathi.gupta,6463
+NWL1021,Aishwarya,Menon,aishwarya.menon@northwindlabs.com,Software Engineer II,Engineering,Platform Engineering,NWL1009,Nisha Chowdary,Bengaluru,India,Hybrid,Full-time,2020-09-28,No,,,@aishwarya.menon,4904
+NWL1022,Pooja,Subramanian,pooja.subramanian@northwindlabs.com,Software Engineer II,Engineering,Platform Engineering,NWL1009,Nisha Chowdary,Bengaluru,India,Hybrid,Full-time,2023-09-29,No,,,@pooja.subramanian,2555
+NWL1023,Tanvi,Bhat,tanvi.bhat@northwindlabs.com,Staff Software Engineer,Engineering,Platform Engineering,NWL1009,Nisha Chowdary,Bengaluru,India,Hybrid,Full-time,2024-12-26,No,,,@tanvi.bhat,3795
+NWL1024,Pranav,Kapoor,pranav.kapoor@northwindlabs.com,"Engineering Manager, Data",Engineering,Data Engineering,NWL1008,Arjun Kulkarni,Hyderabad,India,Hybrid,Full-time,2021-10-07,No,,,@pranav.kapoor,5693
+NWL1025,Nisha,Menon,nisha.menon@northwindlabs.com,Data Engineer II,Engineering,Data Engineering,NWL1024,Pranav Kapoor,Hyderabad,India,Hybrid,Full-time,2020-10-20,No,,,@nisha.menon,2305
+NWL1026,Gautam,Gupta,gautam.gupta@northwindlabs.com,Senior Data Engineer,Engineering,Data Engineering,NWL1024,Pranav Kapoor,Hyderabad,India,Hybrid,Full-time,2025-07-18,No,,,@gautam.gupta,6455
+NWL1027,Swathi,Joshi,swathi.joshi@northwindlabs.com,Senior Data Engineer,Engineering,Data Engineering,NWL1024,Pranav Kapoor,Hyderabad,India,Hybrid,Full-time,2024-09-02,No,,,@swathi.joshi,3613
+NWL1028,Ritu,Kapoor,ritu.kapoor@northwindlabs.com,Senior Data Engineer,Engineering,Data Engineering,NWL1024,Pranav Kapoor,Hyderabad,India,Hybrid,Full-time,2020-09-28,No,,,@ritu.kapoor,6208
+NWL1029,Harsha,Subramanian,harsha.subramanian@northwindlabs.com,Data Engineer II,Engineering,Data Engineering,NWL1024,Pranav Kapoor,Hyderabad,India,Hybrid,Full-time,2025-04-24,No,,,@harsha.subramanian,5558
+NWL1030,Karthik,Krishnan,karthik.krishnan@northwindlabs.com,Data Engineer II,Engineering,Data Engineering,NWL1024,Pranav Kapoor,Hyderabad,India,Hybrid,Full-time,2022-08-01,No,,,@karthik.krishnan,2747
+NWL1031,Aarav,Reddy,aarav.reddy@northwindlabs.com,Senior Data Engineer,Engineering,Data Engineering,NWL1024,Pranav Kapoor,Hyderabad,India,Hybrid,Full-time,2022-10-31,No,,,@aarav.reddy,3726
+NWL1032,Vikram,Kulkarni,vikram.kulkarni@northwindlabs.com,Data Engineer I,Engineering,Data Engineering,NWL1024,Pranav Kapoor,Hyderabad,India,Hybrid,Full-time,2026-05-18,No,,,@vikram.kulkarni,6624
+NWL1033,Rohan,Kapoor,rohan.kapoor@northwindlabs.com,Senior Data Engineer,Engineering,Data Engineering,NWL1024,Pranav Kapoor,Hyderabad,India,Hybrid,Full-time,2026-02-18,No,,,@rohan.kapoor,3075
+NWL1034,Suresh,Verma,suresh.verma@northwindlabs.com,Data Engineer I,Engineering,Data Engineering,NWL1024,Pranav Kapoor,Hyderabad,India,Hybrid,Full-time,2024-07-17,No,,,@suresh.verma,3929
+NWL1035,Diya,Reddy,diya.reddy@northwindlabs.com,"Engineering Manager, Web",Engineering,Web Application,NWL1008,Arjun Kulkarni,Bengaluru,India,Hybrid,Full-time,2021-09-15,No,,,@diya.reddy,3050
+NWL1036,Nisha,Subramanian,nisha.subramanian@northwindlabs.com,Senior Frontend Engineer,Engineering,Web Application,NWL1035,Diya Reddy,Bengaluru,India,Hybrid,Full-time,2025-08-04,No,,,@nisha.subramanian,5115
+NWL1037,Aditya,Sharma,aditya.sharma@northwindlabs.com,Software Engineer II,Engineering,Web Application,NWL1035,Diya Reddy,Bengaluru,India,Hybrid,Full-time,2020-11-16,No,,,@aditya.sharma,2825
+NWL1038,Bhavana,Subramanian,bhavana.subramanian@northwindlabs.com,Frontend Engineer II,Engineering,Web Application,NWL1035,Diya Reddy,Bengaluru,India,Hybrid,Contractor,2026-06-04,No,,,@bhavana.subramanian,6032
+NWL1039,Gautam,Sharma,gautam.sharma@northwindlabs.com,Senior Frontend Engineer,Engineering,Web Application,NWL1035,Diya Reddy,Bengaluru,India,Hybrid,Full-time,2022-06-01,No,,,@gautam.sharma,5428
+NWL1040,Priya,Patel,priya.patel@northwindlabs.com,Senior Frontend Engineer,Engineering,Web Application,NWL1035,Diya Reddy,Bengaluru,India,Hybrid,Contractor,2018-06-05,No,,,@priya.patel,6668
+NWL1041,Naveen,Krishnan,naveen.krishnan@northwindlabs.com,Software Engineer II,Engineering,Web Application,NWL1035,Diya Reddy,Bengaluru,India,Hybrid,Full-time,2025-05-25,No,,,@naveen.krishnan,6755
+NWL1042,Varun,Joshi,varun.joshi@northwindlabs.com,Senior Frontend Engineer,Engineering,Web Application,NWL1035,Diya Reddy,Bengaluru,India,Hybrid,Full-time,2022-10-02,No,,,@varun.joshi,4181
+NWL1043,Priya,Menon,priya.menon@northwindlabs.com,Senior Frontend Engineer,Engineering,Web Application,NWL1035,Diya Reddy,Bengaluru,India,Hybrid,Full-time,2026-01-16,No,,,@priya.menon,5404
+NWL1044,Vikram,Iyer,vikram.iyer@northwindlabs.com,Frontend Engineer II,Engineering,Web Application,NWL1035,Diya Reddy,Hyderabad,India,Hybrid,Full-time,2025-04-08,No,,,@vikram.iyer,3079
+NWL1045,Manoj,Krishnan,manoj.krishnan@northwindlabs.com,Software Engineer II,Engineering,Web Application,NWL1035,Diya Reddy,Hyderabad,India,Hybrid,Full-time,2024-08-04,No,,,@manoj.krishnan,4535
+NWL1046,Suresh,Subramanian,suresh.subramanian@northwindlabs.com,Senior Frontend Engineer,Engineering,Web Application,NWL1035,Diya Reddy,Bengaluru,India,Hybrid,Full-time,2020-09-18,No,,,@suresh.subramanian,3244
+NWL1047,Marcus,Lewis,marcus.lewis@northwindlabs.com,SRE Manager,Engineering,Site Reliability,NWL1008,Arjun Kulkarni,Austin,United States,Hybrid,Full-time,2020-05-22,No,,,@marcus.lewis,4432
+NWL1048,Tyler,Williams,tyler.williams@northwindlabs.com,Site Reliability Engineer,Engineering,Site Reliability,NWL1047,Marcus Lewis,Remote-US,United States,Remote,Full-time,2019-11-18,No,,,@tyler.williams,
+NWL1049,Madison,Hall,madison.hall@northwindlabs.com,Senior Site Reliability Engineer,Engineering,Site Reliability,NWL1047,Marcus Lewis,Austin,United States,Hybrid,Full-time,2024-03-25,No,,,@madison.hall,5407
+NWL1050,Michael,Brown,michael.brown@northwindlabs.com,Senior Site Reliability Engineer,Engineering,Site Reliability,NWL1047,Marcus Lewis,Austin,United States,Hybrid,Full-time,2019-08-31,No,,,@michael.brown,3037
+NWL1051,Daniel,Lewis,daniel.lewis@northwindlabs.com,Site Reliability Engineer,Engineering,Site Reliability,NWL1047,Marcus Lewis,Remote-US,United States,Remote,Full-time,2021-11-08,No,,,@daniel.lewis,
+NWL1052,Abigail,Moore,abigail.moore@northwindlabs.com,Site Reliability Engineer,Engineering,Site Reliability,NWL1047,Marcus Lewis,Remote-US,United States,Remote,Full-time,2019-09-01,No,,,@abigail.moore,
+NWL1053,Abigail,Clark,abigail.clark@northwindlabs.com,Senior Site Reliability Engineer,Engineering,Site Reliability,NWL1047,Marcus Lewis,Austin,United States,Hybrid,Full-time,2021-05-27,No,,,@abigail.clark,4798
+NWL1054,Ananya,Shetty,ananya.shetty@northwindlabs.com,QA Manager,Engineering,QA Automation,NWL1008,Arjun Kulkarni,Hyderabad,India,Hybrid,Full-time,2024-08-13,No,,,@ananya.shetty,3232
+NWL1055,Shruti,Bhat,shruti.bhat@northwindlabs.com,Senior QA Engineer,Engineering,QA Automation,NWL1054,Ananya Shetty,Hyderabad,India,Hybrid,Full-time,2023-01-18,No,,,@shruti.bhat,4427
+NWL1056,Aarav,Subramanian,aarav.subramanian@northwindlabs.com,QA Engineer,Engineering,QA Automation,NWL1054,Ananya Shetty,Hyderabad,India,Hybrid,Full-time,2019-03-08,No,,,@aarav.subramanian,5379
+NWL1057,Revathi,Joshi,revathi.joshi@northwindlabs.com,QA Engineer,Engineering,QA Automation,NWL1054,Ananya Shetty,Hyderabad,India,Hybrid,Full-time,2023-09-15,No,,,@revathi.joshi,5849
+NWL1058,Aditya,Agarwal,aditya.agarwal@northwindlabs.com,Senior QA Engineer,Engineering,QA Automation,NWL1054,Ananya Shetty,Hyderabad,India,Hybrid,Full-time,2022-01-03,No,,,@aditya.agarwal,5045
+NWL1059,Kavya,Bhat,kavya.bhat@northwindlabs.com,SDET II,Engineering,QA Automation,NWL1054,Ananya Shetty,Hyderabad,India,Hybrid,Full-time,2019-02-03,No,,,@kavya.bhat,2379
+NWL1060,Ritu,Patel,ritu.patel@northwindlabs.com,QA Engineer,Engineering,QA Automation,NWL1054,Ananya Shetty,Hyderabad,India,Hybrid,Full-time,2025-03-22,No,,,@ritu.patel,6168
+NWL1061,Ishaan,Desai,ishaan.desai@northwindlabs.com,Senior QA Engineer,Engineering,QA Automation,NWL1054,Ananya Shetty,Hyderabad,India,Hybrid,Full-time,2023-07-08,No,,,@ishaan.desai,3544
+NWL1062,Hannah,Allen,hannah.allen@northwindlabs.com,Director of Product,Product & Design,Product Management,NWL1003,Jamal Moore,Austin,United States,Hybrid,Full-time,2018-12-24,No,,,@hannah.allen,5620
+NWL1063,Rohan,Krishnan,rohan.krishnan@northwindlabs.com,Senior Product Manager,Product & Design,Product Management,NWL1062,Hannah Allen,Bengaluru,India,Hybrid,Full-time,2026-01-07,No,,,@rohan.krishnan,5273
+NWL1064,Isabella,Young,isabella.young@northwindlabs.com,Product Manager,Product & Design,Product Management,NWL1062,Hannah Allen,Austin,United States,Hybrid,Full-time,2018-09-18,No,,,@isabella.young,4616
+NWL1065,Michael,Wilson,michael.wilson@northwindlabs.com,Associate Product Manager,Product & Design,Product Management,NWL1062,Hannah Allen,Austin,United States,Hybrid,Full-time,2018-08-03,No,,,@michael.wilson,4965
+NWL1066,Deepika,Krishnan,deepika.krishnan@northwindlabs.com,Associate Product Manager,Product & Design,Product Management,NWL1062,Hannah Allen,Bengaluru,India,Hybrid,Full-time,2021-04-26,No,,,@deepika.krishnan,5768
+NWL1067,Abigail,Lewis,abigail.lewis@northwindlabs.com,Associate Product Manager,Product & Design,Product Management,NWL1062,Hannah Allen,Austin,United States,Hybrid,Full-time,2022-05-15,No,,,@abigail.lewis,3947
+NWL1068,Meera,Naidu,meera.naidu@northwindlabs.com,Product Manager,Product & Design,Product Management,NWL1062,Hannah Allen,Bengaluru,India,Hybrid,Full-time,2023-05-22,No,,,@meera.naidu,3598
+NWL1069,Kavya,Verma,kavya.verma@northwindlabs.com,Design Manager,Product & Design,UX Design,NWL1003,Jamal Moore,Bengaluru,India,Hybrid,Full-time,2018-06-16,No,,,@kavya.verma,2987
+NWL1070,Rajesh,Agarwal,rajesh.agarwal@northwindlabs.com,UX Researcher,Product & Design,UX Design,NWL1069,Kavya Verma,Bengaluru,India,Hybrid,Full-time,2026-04-23,No,,,@rajesh.agarwal,3557
+NWL1071,Manoj,Desai,manoj.desai@northwindlabs.com,Senior Product Designer,Product & Design,UX Design,NWL1069,Kavya Verma,Bengaluru,India,Hybrid,Full-time,2024-11-23,No,,,@manoj.desai,6469
+NWL1072,Bhavana,Chowdary,bhavana.chowdary@northwindlabs.com,Senior Product Designer,Product & Design,UX Design,NWL1069,Kavya Verma,Bengaluru,India,Hybrid,Full-time,2025-10-06,No,,,@bhavana.chowdary,6179
+NWL1073,Sneha,Iyer,sneha.iyer@northwindlabs.com,Senior Product Designer,Product & Design,UX Design,NWL1069,Kavya Verma,Bengaluru,India,Hybrid,Full-time,2025-07-08,No,,,@sneha.iyer,2639
+NWL1074,Suresh,Shetty,suresh.shetty@northwindlabs.com,Product Designer,Product & Design,UX Design,NWL1069,Kavya Verma,Bengaluru,India,Hybrid,Full-time,2024-03-26,No,,,@suresh.shetty,3414
+NWL1075,Siddharth,Iyer,siddharth.iyer@northwindlabs.com,Machine Learning Manager,Data Science,Machine Learning,NWL1002,Nikhil Desai,Bengaluru,India,Hybrid,Full-time,2020-01-25,No,,,@siddharth.iyer,6323
+NWL1076,Ritu,Gupta,ritu.gupta@northwindlabs.com,ML Engineer,Data Science,Machine Learning,NWL1075,Siddharth Iyer,Bengaluru,India,Hybrid,Full-time,2020-08-08,No,,,@ritu.gupta,5680
+NWL1077,Meera,Iyer,meera.iyer@northwindlabs.com,ML Engineer,Data Science,Machine Learning,NWL1075,Siddharth Iyer,Bengaluru,India,Hybrid,Full-time,2019-12-12,No,,,@meera.iyer,3969
+NWL1078,Anjali,Menon,anjali.menon@northwindlabs.com,Data Scientist,Data Science,Machine Learning,NWL1075,Siddharth Iyer,Bengaluru,India,Hybrid,Full-time,2025-09-18,No,,,@anjali.menon,4859
+NWL1079,Pranav,Desai,pranav.desai@northwindlabs.com,Senior Data Scientist,Data Science,Machine Learning,NWL1075,Siddharth Iyer,Bengaluru,India,Hybrid,Full-time,2023-06-18,No,,,@pranav.desai,4115
+NWL1080,Suresh,Desai,suresh.desai@northwindlabs.com,Data Scientist,Data Science,Machine Learning,NWL1075,Siddharth Iyer,Bengaluru,India,Hybrid,Full-time,2026-01-17,No,,,@suresh.desai,6455
+NWL1081,Sanjay,Bhat,sanjay.bhat@northwindlabs.com,ML Engineer,Data Science,Machine Learning,NWL1075,Siddharth Iyer,Bengaluru,India,Hybrid,Full-time,2024-01-02,No,,,@sanjay.bhat,5193
+NWL1082,Joshua,Young,joshua.young@northwindlabs.com,"Regional Sales Director, North America",Sales,Enterprise Sales,NWL1004,Matthew Williams,Austin,United States,Hybrid,Full-time,2023-03-20,No,,,@joshua.young,6277
+NWL1083,Mia,Jackson,mia.jackson@northwindlabs.com,Sales Engineer,Sales,Enterprise Sales,NWL1082,Joshua Young,Austin,United States,Hybrid,Full-time,2025-04-17,No,,,@mia.jackson,5003
+NWL1084,Joshua,Jackson,joshua.jackson@northwindlabs.com,Account Executive,Sales,Enterprise Sales,NWL1082,Joshua Young,Remote-US,United States,Remote,Full-time,2023-09-23,No,,,@joshua.jackson,
+NWL1085,Mia,Garcia,mia.garcia@northwindlabs.com,Sales Engineer,Sales,Enterprise Sales,NWL1082,Joshua Young,Austin,United States,Hybrid,Full-time,2020-09-25,No,,,@mia.garcia,4370
+NWL1086,Mia,Young,mia.young@northwindlabs.com,Account Executive,Sales,Enterprise Sales,NWL1082,Joshua Young,Austin,United States,Hybrid,Full-time,2021-07-09,No,,,@mia.young,3632
+NWL1087,Aaliyah,Wright,aaliyah.wright@northwindlabs.com,Sales Engineer,Sales,Enterprise Sales,NWL1082,Joshua Young,Austin,United States,Hybrid,Full-time,2021-11-02,No,,,@aaliyah.wright,6562
+NWL1088,Madison,Lewis,madison.lewis@northwindlabs.com,Senior Account Executive,Sales,Enterprise Sales,NWL1082,Joshua Young,Austin,United States,Hybrid,Full-time,2021-04-13,No,,,@madison.lewis,5033
+NWL1089,Zoe,Davis,zoe.davis@northwindlabs.com,Account Executive,Sales,Enterprise Sales,NWL1082,Joshua Young,Austin,United States,Hybrid,Full-time,2020-05-19,No,,,@zoe.davis,6009
+NWL1090,Marcus,Moore,marcus.moore@northwindlabs.com,Account Executive,Sales,Enterprise Sales,NWL1082,Joshua Young,Remote-US,United States,Remote,Full-time,2021-08-07,No,,,@marcus.moore,
+NWL1091,Christopher,Kim,christopher.kim@northwindlabs.com,Sales Engineer,Sales,Enterprise Sales,NWL1082,Joshua Young,Remote-US,United States,Remote,Full-time,2024-01-04,No,,,@christopher.kim,
+NWL1092,Aaliyah,Williams,aaliyah.williams@northwindlabs.com,Sales Development Manager,Sales,Sales Development,NWL1004,Matthew Williams,Austin,United States,Hybrid,Full-time,2021-06-25,No,,,@aaliyah.williams,2962
+NWL1093,Brandon,Young,brandon.young@northwindlabs.com,Senior Sales Development Representative,Sales,Sales Development,NWL1092,Aaliyah Williams,Austin,United States,Hybrid,Contractor,2024-01-21,No,,,@brandon.young,3239
+NWL1094,Madison,Johnson,madison.johnson@northwindlabs.com,Senior Sales Development Representative,Sales,Sales Development,NWL1092,Aaliyah Williams,Austin,United States,Hybrid,Full-time,2022-05-04,No,,,@madison.johnson,4143
+NWL1095,Zoe,Martinez,zoe.martinez@northwindlabs.com,Senior Sales Development Representative,Sales,Sales Development,NWL1092,Aaliyah Williams,Austin,United States,Hybrid,Full-time,2022-01-12,No,,,@zoe.martinez,6452
+NWL1096,Michael,Jackson,michael.jackson@northwindlabs.com,Senior Sales Development Representative,Sales,Sales Development,NWL1092,Aaliyah Williams,Austin,United States,Hybrid,Contractor,2020-06-15,No,,,@michael.jackson,4711
+NWL1097,Michael,Lee,michael.lee@northwindlabs.com,Senior Sales Development Representative,Sales,Sales Development,NWL1092,Aaliyah Williams,Austin,United States,Hybrid,Full-time,2025-11-22,No,,,@michael.lee,5105
+NWL1098,Sophia,Young,sophia.young@northwindlabs.com,Senior Sales Development Representative,Sales,Sales Development,NWL1092,Aaliyah Williams,Austin,United States,Hybrid,Full-time,2019-01-03,No,,,@sophia.young,6123
+NWL1099,Ethan,Anderson,ethan.anderson@northwindlabs.com,Senior Sales Development Representative,Sales,Sales Development,NWL1092,Aaliyah Williams,Austin,United States,Hybrid,Full-time,2025-06-28,No,,,@ethan.anderson,2865
+NWL1100,Manoj,Hegde,manoj.hegde@northwindlabs.com,"Sales Director, APAC",Sales,APAC Sales,NWL1004,Matthew Williams,Bengaluru,India,Hybrid,Full-time,2023-06-21,No,,,@manoj.hegde,3755
+NWL1101,Ishaan,Gupta,ishaan.gupta@northwindlabs.com,Sales Engineer,Sales,APAC Sales,NWL1100,Manoj Hegde,Bengaluru,India,Hybrid,Full-time,2023-09-24,No,,,@ishaan.gupta,3459
+NWL1102,Suresh,Rao,suresh.rao@northwindlabs.com,Sales Engineer,Sales,APAC Sales,NWL1100,Manoj Hegde,Bengaluru,India,Hybrid,Full-time,2019-10-04,No,,,@suresh.rao,3272
+NWL1103,Rohan,Kulkarni,rohan.kulkarni@northwindlabs.com,Account Executive,Sales,APAC Sales,NWL1100,Manoj Hegde,Bengaluru,India,Hybrid,Full-time,2026-08-08,No,,,@rohan.kulkarni,5961
+NWL1104,Ananya,Rao,ananya.rao@northwindlabs.com,Account Executive,Sales,APAC Sales,NWL1100,Manoj Hegde,Bengaluru,India,Hybrid,Full-time,2020-12-18,No,,,@ananya.rao,2234
+NWL1105,Ananya,Sharma,ananya.sharma@northwindlabs.com,Sales Engineer,Sales,APAC Sales,NWL1100,Manoj Hegde,Bengaluru,India,Hybrid,Full-time,2018-02-19,No,,,@ananya.sharma,2693
+NWL1106,David,Miller,david.miller@northwindlabs.com,Customer Success Lead,Customer Success,Customer Success,NWL1004,Matthew Williams,Austin,United States,Hybrid,Full-time,2018-09-03,No,,,@david.miller,5607
+NWL1107,Mia,Brown,mia.brown@northwindlabs.com,Senior Customer Success Manager,Customer Success,Customer Success,NWL1106,David Miller,Remote-US,United States,Remote,Full-time,2025-06-19,No,,,@mia.brown,
+NWL1108,Natalie,Moore,natalie.moore@northwindlabs.com,Customer Success Manager,Customer Success,Customer Success,NWL1106,David Miller,Austin,United States,Hybrid,Full-time,2022-02-21,No,,,@natalie.moore,3354
+NWL1109,Sophia,Clark,sophia.clark@northwindlabs.com,Customer Success Manager,Customer Success,Customer Success,NWL1106,David Miller,Austin,United States,Hybrid,Full-time,2026-01-16,No,,,@sophia.clark,5563
+NWL1110,Madison,Miller,madison.miller@northwindlabs.com,Customer Success Manager,Customer Success,Customer Success,NWL1106,David Miller,Austin,United States,Hybrid,Full-time,2019-02-05,No,,,@madison.miller,5480
+NWL1111,Christopher,Moore,christopher.moore@northwindlabs.com,Senior Customer Success Manager,Customer Success,Customer Success,NWL1106,David Miller,Remote-US,United States,Remote,Full-time,2023-01-04,No,,,@christopher.moore,
+NWL1112,Ethan,Allen,ethan.allen@northwindlabs.com,Customer Success Manager,Customer Success,Customer Success,NWL1106,David Miller,Austin,United States,Hybrid,Full-time,2022-12-05,No,,,@ethan.allen,2333
+NWL1113,Aaliyah,Garcia,aaliyah.garcia@northwindlabs.com,Senior Customer Success Manager,Customer Success,Customer Success,NWL1106,David Miller,Remote-US,United States,Remote,Full-time,2024-02-21,No,,,@aaliyah.garcia,
+NWL1114,Siddharth,Mehta,siddharth.mehta@northwindlabs.com,Support Manager,Customer Success,Technical Support,NWL1004,Matthew Williams,Hyderabad,India,Hybrid,Full-time,2024-08-19,No,,,@siddharth.mehta,6267
+NWL1115,Pooja,Reddy,pooja.reddy@northwindlabs.com,Support Engineer II,Customer Success,Technical Support,NWL1114,Siddharth Mehta,Hyderabad,India,Hybrid,Full-time,2024-07-14,No,,,@pooja.reddy,2315
+NWL1116,Rajesh,Desai,rajesh.desai@northwindlabs.com,Senior Support Engineer,Customer Success,Technical Support,NWL1114,Siddharth Mehta,Hyderabad,India,Hybrid,Full-time,2025-06-10,No,,,@rajesh.desai,4559
+NWL1117,Divya,Chowdary,divya.chowdary@northwindlabs.com,Senior Support Engineer,Customer Success,Technical Support,NWL1114,Siddharth Mehta,Hyderabad,India,Hybrid,Full-time,2022-04-17,No,,,@divya.chowdary,5723
+NWL1118,Arjun,Sharma,arjun.sharma@northwindlabs.com,Support Engineer II,Customer Success,Technical Support,NWL1114,Siddharth Mehta,Hyderabad,India,Hybrid,Full-time,2019-04-15,No,,,@arjun.sharma,4529
+NWL1119,Priya,Gupta,priya.gupta@northwindlabs.com,Senior Support Engineer,Customer Success,Technical Support,NWL1114,Siddharth Mehta,Hyderabad,India,Hybrid,Full-time,2019-04-23,No,,,@priya.gupta,3908
+NWL1120,Aditya,Shetty,aditya.shetty@northwindlabs.com,Support Engineer II,Customer Success,Technical Support,NWL1114,Siddharth Mehta,Hyderabad,India,Hybrid,Full-time,2018-12-11,No,,,@aditya.shetty,5423
+NWL1121,Revathi,Pillai,revathi.pillai@northwindlabs.com,Senior Support Engineer,Customer Success,Technical Support,NWL1114,Siddharth Mehta,Hyderabad,India,Hybrid,Contractor,2024-05-31,No,,,@revathi.pillai,5649
+NWL1122,Naveen,Bhat,naveen.bhat@northwindlabs.com,Support Engineer II,Customer Success,Technical Support,NWL1114,Siddharth Mehta,Hyderabad,India,Hybrid,Full-time,2025-01-15,No,,,@naveen.bhat,4491
+NWL1123,Pranav,Naidu,pranav.naidu@northwindlabs.com,Support Engineer II,Customer Success,Technical Support,NWL1114,Siddharth Mehta,Hyderabad,India,Hybrid,Full-time,2026-03-28,No,,,@pranav.naidu,5897
+NWL1124,Jamal,Martinez,jamal.martinez@northwindlabs.com,Head of Growth Marketing,Marketing,Growth Marketing,NWL1004,Matthew Williams,Remote-US,United States,Remote,Full-time,2023-05-18,No,,,@jamal.martinez,
+NWL1125,Grace,Rodriguez,grace.rodriguez@northwindlabs.com,Marketing Manager,Marketing,Growth Marketing,NWL1124,Jamal Martinez,Remote-US,United States,Remote,Full-time,2019-10-02,No,,,@grace.rodriguez,
+NWL1126,Andrew,Nguyen,andrew.nguyen@northwindlabs.com,Marketing Manager,Marketing,Growth Marketing,NWL1124,Jamal Martinez,Austin,United States,Hybrid,Full-time,2024-08-14,No,,,@andrew.nguyen,2791
+NWL1127,Andrew,Martinez,andrew.martinez@northwindlabs.com,Marketing Manager,Marketing,Growth Marketing,NWL1124,Jamal Martinez,Remote-US,United States,Remote,Full-time,2025-01-08,No,,,@andrew.martinez,
+NWL1128,Ryan,Patel,ryan.patel@northwindlabs.com,Marketing Manager,Marketing,Growth Marketing,NWL1124,Jamal Martinez,Remote-US,United States,Remote,Full-time,2025-10-04,No,,,@ryan.patel,
+NWL1129,Grace,Martinez,grace.martinez@northwindlabs.com,Content Marketing Manager,Marketing,Growth Marketing,NWL1124,Jamal Martinez,Austin,United States,Hybrid,Full-time,2024-07-06,No,,,@grace.martinez,6037
+NWL1130,Deepika,Banerjee,deepika.banerjee@northwindlabs.com,People Operations Manager,People,People Operations,NWL1005,Kevin Nguyen,Bengaluru,India,Hybrid,Full-time,2021-09-13,No,,,@deepika.banerjee,4937
+NWL1131,Sneha,Pillai,sneha.pillai@northwindlabs.com,People Operations Specialist,People,People Operations,NWL1130,Deepika Banerjee,Bengaluru,India,Hybrid,Full-time,2021-08-29,No,,,@sneha.pillai,4791
+NWL1132,Lakshmi,Reddy,lakshmi.reddy@northwindlabs.com,HR Generalist,People,People Operations,NWL1130,Deepika Banerjee,Bengaluru,India,Hybrid,Full-time,2022-04-16,No,,,@lakshmi.reddy,3749
+NWL1133,Carlos,Lewis,carlos.lewis@northwindlabs.com,HR Generalist,People,People Operations,NWL1130,Deepika Banerjee,Austin,United States,Hybrid,Full-time,2021-11-09,No,,,@carlos.lewis,4615
+NWL1134,Naveen,Banerjee,naveen.banerjee@northwindlabs.com,HR Generalist,People,People Operations,NWL1130,Deepika Banerjee,Bengaluru,India,Hybrid,Full-time,2020-11-23,No,,,@naveen.banerjee,5668
+NWL1135,Anjali,Joshi,anjali.joshi@northwindlabs.com,HR Generalist,People,People Operations,NWL1130,Deepika Banerjee,Bengaluru,India,Hybrid,Full-time,2026-01-19,No,,,@anjali.joshi,4174
+NWL1136,Olivia,Patel,olivia.patel@northwindlabs.com,Talent Acquisition Manager,People,Talent Acquisition,NWL1005,Kevin Nguyen,Austin,United States,Hybrid,Full-time,2020-09-20,No,,,@olivia.patel,3107
+NWL1137,Kevin,Rodriguez,kevin.rodriguez@northwindlabs.com,Recruiting Coordinator,People,Talent Acquisition,NWL1136,Olivia Patel,Austin,United States,Hybrid,Contractor,2026-09-16,No,,,@kevin.rodriguez,4535
+NWL1138,Ava,Harris,ava.harris@northwindlabs.com,Recruiting Coordinator,People,Talent Acquisition,NWL1136,Olivia Patel,Austin,United States,Hybrid,Full-time,2026-05-19,No,,,@ava.harris,3822
+NWL1139,Grace,Lee,grace.lee@northwindlabs.com,Recruiting Coordinator,People,Talent Acquisition,NWL1136,Olivia Patel,Austin,United States,Hybrid,Full-time,2024-01-25,No,,,@grace.lee,4638
+NWL1140,David,Jackson,david.jackson@northwindlabs.com,Recruiting Coordinator,People,Talent Acquisition,NWL1136,Olivia Patel,Austin,United States,Hybrid,Full-time,2018-05-07,No,,,@david.jackson,3175
+NWL1141,Manoj,Reddy,manoj.reddy@northwindlabs.com,Finance Controller,Finance,Finance & Payroll,NWL1006,Sophia Kim,Hyderabad,India,Hybrid,Full-time,2017-08-15,No,,,@manoj.reddy,6241
+NWL1142,Gautam,Banerjee,gautam.banerjee@northwindlabs.com,Financial Analyst,Finance,Finance & Payroll,NWL1141,Manoj Reddy,Hyderabad,India,Hybrid,Full-time,2025-09-07,No,,,@gautam.banerjee,4395
+NWL1143,Abigail,Miller,abigail.miller@northwindlabs.com,Financial Analyst,Finance,Finance & Payroll,NWL1141,Manoj Reddy,Austin,United States,Hybrid,Full-time,2020-10-23,No,,,@abigail.miller,4252
+NWL1144,Swathi,Agarwal,swathi.agarwal@northwindlabs.com,Financial Analyst,Finance,Finance & Payroll,NWL1141,Manoj Reddy,Hyderabad,India,Hybrid,Contractor,2023-03-01,No,,,@swathi.agarwal,3405
+NWL1145,Jamal,Lee,jamal.lee@northwindlabs.com,Accountant,Finance,Finance & Payroll,NWL1141,Manoj Reddy,Austin,United States,Hybrid,Full-time,2019-01-03,No,,,@jamal.lee,3280
+NWL1146,Aaliyah,Davis,aaliyah.davis@northwindlabs.com,Accountant,Finance,Finance & Payroll,NWL1141,Manoj Reddy,Austin,United States,Hybrid,Full-time,2020-11-20,No,,,@aaliyah.davis,5517
+NWL1147,Sneha,Gupta,sneha.gupta@northwindlabs.com,IT Manager,IT & Security,IT Operations,NWL1007,Michael Walker,Bengaluru,India,Hybrid,Full-time,2021-11-18,No,,,@sneha.gupta,2354
+NWL1148,Ritu,Menon,ritu.menon@northwindlabs.com,Systems Administrator,IT & Security,IT Operations,NWL1147,Sneha Gupta,Bengaluru,India,Hybrid,Contractor,2021-11-12,No,,,@ritu.menon,3669
+NWL1149,Naveen,Pillai,naveen.pillai@northwindlabs.com,IT Support Engineer,IT & Security,IT Operations,NWL1147,Sneha Gupta,Bengaluru,India,Hybrid,Full-time,2025-11-01,No,,,@naveen.pillai,6149
+NWL1150,Hannah,Lee,hannah.lee@northwindlabs.com,Systems Administrator,IT & Security,IT Operations,NWL1147,Sneha Gupta,Austin,United States,Hybrid,Full-time,2022-08-14,No,,,@hannah.lee,6301
+NWL1151,Brandon,Wright,brandon.wright@northwindlabs.com,Systems Administrator,IT & Security,IT Operations,NWL1147,Sneha Gupta,Austin,United States,Hybrid,Full-time,2024-12-04,No,,,@brandon.wright,3653
+NWL1152,Emily,Wilson,emily.wilson@northwindlabs.com,Security Manager,IT & Security,Information Security,NWL1007,Michael Walker,Austin,United States,Hybrid,Full-time,2017-12-22,No,,,@emily.wilson,6602
+NWL1153,Andrew,Rodriguez,andrew.rodriguez@northwindlabs.com,GRC Analyst,IT & Security,Information Security,NWL1152,Emily Wilson,Austin,United States,Hybrid,Full-time,2025-10-29,No,,,@andrew.rodriguez,2844
+NWL1154,Jamal,Walker,jamal.walker@northwindlabs.com,Senior Security Engineer,IT & Security,Information Security,NWL1152,Emily Wilson,Austin,United States,Hybrid,Full-time,2023-01-12,No,,,@jamal.walker,2224
+NWL1155,Ava,Wright,ava.wright@northwindlabs.com,GRC Analyst,IT & Security,Information Security,NWL1152,Emily Wilson,Austin,United States,Hybrid,Full-time,2026-01-12,No,,,@ava.wright,3022
+NWL1156,Ethan,Brown,ethan.brown@northwindlabs.com,Security Engineer,IT & Security,Information Security,NWL1152,Emily Wilson,Austin,United States,Hybrid,Full-time,2022-05-14,No,,,@ethan.brown,3314
+NWL1157,Ethan,Rodriguez,ethan.rodriguez@northwindlabs.com,Senior Legal Counsel,Legal,Legal & Compliance,NWL1006,Sophia Kim,Austin,United States,Hybrid,Full-time,2019-02-04,No,,,@ethan.rodriguez,4257
+NWL1158,Joshua,Nguyen,joshua.nguyen@northwindlabs.com,Contracts Manager,Legal,Legal & Compliance,NWL1157,Ethan Rodriguez,Austin,United States,Hybrid,Full-time,2026-08-08,No,,,@joshua.nguyen,4946
+NWL1159,Matthew,Rodriguez,matthew.rodriguez@northwindlabs.com,Compliance Analyst,Legal,Legal & Compliance,NWL1157,Ethan Rodriguez,Austin,United States,Hybrid,Full-time,2019-03-01,No,,,@matthew.rodriguez,3193
+NWL1160,Siddharth,Patel,siddharth.patel@northwindlabs.com,Staff Software Engineer,Engineering,Platform Engineering,NWL1009,Nisha Chowdary,Bengaluru,India,Hybrid,Full-time,2026-10-05,Yes,NWL1010,Abhishek Banerjee,@siddharth.patel,6589
+NWL1161,Deepika,Mehta,deepika.mehta@northwindlabs.com,Software Engineer I,Engineering,Platform Engineering,NWL1009,Nisha Chowdary,Bengaluru,India,Hybrid,Full-time,2026-10-19,Yes,NWL1015,Abhishek Hegde,@deepika.mehta,4716
+NWL1162,Pranav,Joshi,pranav.joshi@northwindlabs.com,Data Engineer I,Engineering,Data Engineering,NWL1024,Pranav Kapoor,Hyderabad,India,Hybrid,Full-time,2026-10-26,Yes,NWL1026,Gautam Gupta,@pranav.joshi,2813
+NWL1163,Tanvi,Mehta,tanvi.mehta@northwindlabs.com,Frontend Engineer II,Engineering,Web Application,NWL1035,Diya Reddy,Bengaluru,India,Hybrid,Full-time,2026-11-02,Yes,NWL1036,Nisha Subramanian,@tanvi.mehta,4980
+NWL1164,Luis,Williams,luis.williams@northwindlabs.com,Site Reliability Engineer,Engineering,Site Reliability,NWL1047,Marcus Lewis,Austin,United States,Hybrid,Full-time,2026-11-16,Yes,NWL1053,Abigail Clark,@luis.williams,4835
+NWL1165,Varun,Verma,varun.verma@northwindlabs.com,QA Engineer,Engineering,QA Automation,NWL1054,Ananya Shetty,Hyderabad,India,Hybrid,Full-time,2026-10-05,Yes,NWL1058,Aditya Agarwal,@varun.verma,6809
+NWL1166,Aaliyah,Thompson,aaliyah.thompson@northwindlabs.com,Senior Product Manager,Product & Design,Product Management,NWL1062,Hannah Allen,Austin,United States,Hybrid,Full-time,2026-10-19,Yes,NWL1067,Abigail Lewis,@aaliyah.thompson,3135
+NWL1167,Manoj,Banerjee,manoj.banerjee@northwindlabs.com,Product Designer,Product & Design,UX Design,NWL1069,Kavya Verma,Bengaluru,India,Hybrid,Full-time,2026-10-26,Yes,NWL1074,Suresh Shetty,@manoj.banerjee,2265
+NWL1168,Priya,Pillai,priya.pillai@northwindlabs.com,Data Scientist,Data Science,Machine Learning,NWL1075,Siddharth Iyer,Bengaluru,India,Hybrid,Full-time,2026-11-02,Yes,NWL1081,Sanjay Bhat,@priya.pillai,2150
+NWL1169,Isabella,Clark,isabella.clark@northwindlabs.com,Account Executive,Sales,Enterprise Sales,NWL1082,Joshua Young,Austin,United States,Hybrid,Full-time,2026-11-16,Yes,NWL1086,Mia Young,@isabella.clark,2606
+NWL1170,Christopher,Wilson,christopher.wilson@northwindlabs.com,Sales Development Representative,Sales,Sales Development,NWL1092,Aaliyah Williams,Austin,United States,Hybrid,Full-time,2026-10-05,Yes,NWL1098,Sophia Young,@christopher.wilson,6627
+NWL1171,Mia,Wright,mia.wright@northwindlabs.com,Sales Development Representative,Sales,Sales Development,NWL1092,Aaliyah Williams,Austin,United States,Hybrid,Full-time,2026-10-19,Yes,NWL1096,Michael Jackson,@mia.wright,6689
+NWL1172,Rahul,Mehta,rahul.mehta@northwindlabs.com,Account Executive,Sales,APAC Sales,NWL1100,Manoj Hegde,Bengaluru,India,Hybrid,Full-time,2026-10-26,Yes,NWL1105,Ananya Sharma,@rahul.mehta,2570
+NWL1173,Carlos,Anderson,carlos.anderson@northwindlabs.com,Customer Success Manager,Customer Success,Customer Success,NWL1106,David Miller,Austin,United States,Hybrid,Full-time,2026-11-02,Yes,NWL1110,Madison Miller,@carlos.anderson,3339
+NWL1174,Tanvi,Menon,tanvi.menon@northwindlabs.com,Support Engineer I,Customer Success,Technical Support,NWL1114,Siddharth Mehta,Hyderabad,India,Hybrid,Full-time,2026-11-16,Yes,NWL1121,Revathi Pillai,@tanvi.menon,4663
+NWL1175,Ishaan,Agarwal,ishaan.agarwal@northwindlabs.com,Support Engineer I,Customer Success,Technical Support,NWL1114,Siddharth Mehta,Hyderabad,India,Hybrid,Full-time,2026-10-05,Yes,NWL1122,Naveen Bhat,@ishaan.agarwal,2445
+NWL1176,Andrew,Williams,andrew.williams@northwindlabs.com,Marketing Manager,Marketing,Growth Marketing,NWL1124,Jamal Martinez,Remote-US,United States,Remote,Full-time,2026-10-19,Yes,NWL1126,Andrew Nguyen,@andrew.williams,
+NWL1177,Ava,Lopez,ava.lopez@northwindlabs.com,Technical Recruiter,People,Talent Acquisition,NWL1136,Olivia Patel,Austin,United States,Hybrid,Full-time,2026-10-26,Yes,NWL1140,David Jackson,@ava.lopez,3182
+NWL1178,Vikram,Chowdary,vikram.chowdary@northwindlabs.com,Accountant,Finance,Finance & Payroll,NWL1141,Manoj Reddy,Hyderabad,India,Hybrid,Full-time,2026-11-02,Yes,NWL1145,Jamal Lee,@vikram.chowdary,6539
+NWL1179,Christopher,Martinez,christopher.martinez@northwindlabs.com,Security Engineer,IT & Security,Information Security,NWL1152,Emily Wilson,Austin,United States,Hybrid,Full-time,2026-11-16,Yes,NWL1154,Jamal Walker,@christopher.martinez,4239
+NWL1180,Manoj,Subramanian,manoj.subramanian@northwindlabs.com,IT Support Engineer,IT & Security,IT Operations,NWL1147,Sneha Gupta,Bengaluru,India,Hybrid,Full-time,2026-10-05,Yes,NWL1148,Ritu Menon,@manoj.subramanian,4370
+NWL1181,Deepika,Joshi,deepika.joshi@northwindlabs.com,Frontend Engineer II,Engineering,Web Application,NWL1035,Diya Reddy,Bengaluru,India,Hybrid,Full-time,2026-10-19,Yes,NWL1040,Priya Patel,@deepika.joshi,4115
+NWL1182,Rajesh,Reddy,rajesh.reddy@northwindlabs.com,Software Engineering Intern,Engineering,Platform Engineering,NWL1009,Nisha Chowdary,Bengaluru,India,Hybrid,Intern,2026-07-06,No,,,@rajesh.reddy,5057
+NWL1183,Divya,Patel,divya.patel@northwindlabs.com,Data Science Intern,Data Science,Machine Learning,NWL1075,Siddharth Iyer,Bengaluru,India,Hybrid,Intern,2026-07-06,No,,,@divya.patel,5076
+NWL1184,Swathi,Shetty,swathi.shetty@northwindlabs.com,Design Intern,Product & Design,UX Design,NWL1069,Kavya Verma,Bengaluru,India,Hybrid,Intern,2026-07-06,No,,,@swathi.shetty,3317

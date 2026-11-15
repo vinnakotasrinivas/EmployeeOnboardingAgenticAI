@@ -1,0 +1,49 @@
+NORTHWIND LABS - FIRST WEEK FAQ FOR NEW HIRES
+Owner: People Team (people@northwindlabs.com) | Last updated: 1 October 2026
+
+Q: What time should I arrive on Day 1, and where do I go?
+A: Arrive by 09:15 local time. New Hire Orientation starts at 09:30. Austin: reception, Suite 400.
+   Bengaluru: Tower B, 4th floor. Hyderabad: Level 6, Orion Block. Remote US hires join on Zoom
+   using the link in your welcome email.
+
+Q: What should I bring?
+A: A government photo ID. US hires also bring their original Form I-9 documents. India hires
+   bring PAN, Aadhaar and a cancelled cheque or bank statement for payroll.
+
+Q: When do I get my laptop?
+A: Remote US hires receive it by courier before Day 1. Office-based hires collect it from the
+   IT desk during orientation. Activate Okta and enroll MFA before installing anything else.
+
+Q: Who is my onboarding buddy?
+A: Your buddy is named in your welcome email and in the team directory. Meet at least once a
+   week for your first 6 weeks.
+
+Q: Which Slack channels should I join?
+A: #announcements, #ask-people, #it-helpdesk, #new-joiners and your team channel.
+
+Q: What must I finish in my first week?
+A: Acknowledge the Code of Conduct in Workday (due within 7 days), complete the Code of Conduct
+   training (NWL-COC-101), agree your 30-60-90 day plan with your manager, and connect to the
+   Zscaler VPN. US hires: W-4 and direct deposit by end of Day 3.
+
+Q: When is the benefits enrollment deadline?
+A: 30 calendar days from your start date, in Workday > Benefits. Missing it means waiting
+   for open enrollment (1-15 November) unless you have a qualifying life event.
+
+Q: Which trainings are mandatory, and by when?
+A: Security Awareness within 14 days. Data Privacy, Responsible Use of AI and Product
+   Fundamentals within 30 days. POSH Awareness (India) or Harassment Prevention (US) within
+   30 days. Your personal due dates are in Northwind Learn.
+
+Q: Can I work from home in my first week?
+A: Plan to be in the office Tuesday to Thursday from your first week. Remote roles follow the
+   offer letter.
+
+Q: When do I get paid?
+A: India: last working day of each month. US: every other Friday.
+
+Q: I'm locked out of Okta or lost my MFA device. What now?
+A: Call the IT helpdesk on extension 4357 or ask a colleague to post in #it-helpdesk.
+
+Q: Who do I contact about anything else?
+A: Your buddy first, then your manager, then #ask-people. We would rather you ask than guess.
